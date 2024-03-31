@@ -1,4 +1,3 @@
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/GreeningSiren) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/GreeningSiren) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/GreeningSiren) 
 
