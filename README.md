@@ -1,3 +1,7 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/greeningsiren/greeningsiren.github.io/badge)](https://www.codefactor.io/repository/github/greeningsiren/greeningsiren.github.io)
+[![CodeFactor](https://www.codefactor.io/repository/github/greeningsiren/telerik-nivo-2/badge)](https://www.codefactor.io/repository/github/greeningsiren/telerik-nivo-2)
+[![CodeFactor](https://www.codefactor.io/repository/github/greeningsiren/old/badge)](https://www.codefactor.io/repository/github/greeningsiren/old)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/GreeningSiren) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/GreeningSiren) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/GreeningSiren) 
 
