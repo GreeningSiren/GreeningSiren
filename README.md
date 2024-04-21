@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/418-I'm_a_teapot-red?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/All%20Systems%20Operational-green?style=for-the-badge&color=mint)
 # 💫 About Me:
 🔭 I’m currently working on Game Development<br>🌱 I’m currently learning HTML5 Canvas for Game Development
 
