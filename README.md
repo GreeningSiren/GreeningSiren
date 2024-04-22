@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/All%20Systems%20Operational-green?style=for-the-badge&color=#2ab97f)
+![Static Badge](https://img.shields.io/badge/All%20Systems%20Operational-#2ab97f?style=for-the-badge&color=#2ab97f)
 # 💫 About Me:
 🔭 I’m currently working on Game Development<br>🌱 I’m currently learning HTML5 Canvas for Game Development
 
