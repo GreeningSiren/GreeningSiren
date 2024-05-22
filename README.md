@@ -1,4 +1,5 @@
 [![wakatime](https://wakatime.com/badge/user/168ce347-2f8b-449c-a58a-7e0aa1830140.svg)](https://wakatime.com/@168ce347-2f8b-449c-a58a-7e0aa1830140)
+
 ![Static Badge](https://img.shields.io/badge/ALL%20SYSTEMS%20OPERATIONAL-%232ab97f?style=for-the-badge)
 # 💫 About Me:
 🔭 I’m currently working on Game Development<br>🌱 I’m currently learning HTML5 Canvas with JavaScript
