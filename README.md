@@ -16,11 +16,12 @@
 
 # 💻 Tech Stack:
 ## 🚩Languages I Use
-![](https://go-skill-icons.vercel.app/api/icons?i=js,ts,python)
+![](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,python)
 ## 📝IDEs I Use
 ![](https://go-skill-icons.vercel.app/api/icons?i=vscode,vim,sublime,webstorm,pycharm)
 ## 📚Frameworks and Libraries I Use
 ![](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,vite)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GreeningSiren&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GreeningSiren&theme=dark&hide_border=true)<br/>
