@@ -12,6 +12,7 @@
 <br>
 [![CodeFactor](https://www.codefactor.io/repository/github/greeningsiren/telerik-nivo-1/badge)](https://www.codefactor.io/repository/github/greeningsiren/telerik-nivo-1)
 [![CodeFactor](https://www.codefactor.io/repository/github/greeningsiren/golf3d-live/badge)](https://www.codefactor.io/repository/github/greeningsiren/golf3d-live)
+<br>
 [![CodeFactor](https://www.codefactor.io/repository/github/greeningsiren/borisrcs/badge)](https://www.codefactor.io/repository/github/greeningsiren/borisrcs)
 
 ## 🌐 Socials:
