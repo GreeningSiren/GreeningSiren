@@ -20,7 +20,7 @@
 
 # 💻 Tech Stack:
 ## 🚩Languages I Use
-![](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,python)
+![](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,python,godot)
 ## 📝IDEs I Use
 ![](https://go-skill-icons.vercel.app/api/icons?i=vscode,vim,sublime,webstorm,pycharm)
 ## 📚Frameworks and Libraries I Use
